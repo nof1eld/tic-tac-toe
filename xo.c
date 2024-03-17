@@ -139,7 +139,7 @@ void checkWinner(){
         } 
         else //9 turns were played with no winner
         {
-            printf("Tie !\n");
+            printf("\nTie !");
             break;
         }
        
